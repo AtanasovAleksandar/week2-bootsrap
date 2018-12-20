@@ -35,7 +35,7 @@ html {
 }
 
 .nav-menu {
-    background-color: $transparent;
+    background-color: transparent;
     height: 65px;
     position: absolute !important;
     left: 15px;
@@ -101,11 +101,11 @@ section {
     position: relative;
     margin: 0px;
     padding: 0px;
-    background-color: $section-odd;
+    background-color: $section;
     .curve-box {
         height: 600px;
         clip-path: polygon(31% 20%, 100% 0, 100% 100%, 0% 100%);
-        background-color: $section; 
+        background-color: $section-odd; 
     }
     .about-content {
         height: 700px;

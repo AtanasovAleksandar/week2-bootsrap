@@ -29,7 +29,7 @@ html body {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\0000337}}
 .nav-menu {
-  background-color: rgba(55, 0, 255, 0.103);
+  background-color: transparent;
   height: 65px;
   position: absolute !important;
   left: 15px; }
@@ -89,12 +89,12 @@ section {
   position: relative;
   margin: 0px;
   padding: 0px;
-  background-color: #fff8dc; }
+  background-color: #247BA0; }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\00003105}}
   section .curve-box {
     height: 600px;
     clip-path: polygon(31% 20%, 100% 0, 100% 100%, 0% 100%);
-    background-color: #247BA0; }
+    background-color: #fff8dc; }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\00003110}}
   section .about-content {
     height: 700px; }
