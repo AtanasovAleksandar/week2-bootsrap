@@ -1,0 +1,119 @@
+$primary: #f8f9fa;
+$transparent: rgba(55, 0, 255, 0.103);
+$secondary: #286fff;
+$section: #247BA0;
+$section-odd:#fff8dc;
+* {
+    box-sizing: border-box;
+}
+
+html {
+    body {
+        margin: 0px;
+        padding: 0px;
+    }
+}
+
+.col-md-12 {
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.header-section {
+    display: block;
+    position: relative;
+    width: 99%!important;
+}
+
+#background-video {
+    margin: 0px !important;
+    padding: 0px !important;
+    background: black !important;
+    object-fit: fill; // position: absolute;
+    z-index: -1;
+}
+
+.nav-menu {
+    background-color: $transparent;
+    height: 65px;
+    position: absolute !important;
+    left: 15px;
+    .nav-logo {
+        margin-right: 50px;
+        margin-top: 12px;
+        h2 {
+            color: $secondary;
+            margin-right: 20px;
+            span {
+                color: $primary;
+            }
+        }
+    }
+    ul {
+        li {
+            a {
+                color: white;
+            }
+            a:hover {
+                background-color: $secondary;
+            }
+        }
+    }
+}
+
+.nav {
+    margin-top: 12px;
+}
+
+.nav-search {
+    position: absolute;
+    top: 11px;
+    right: 10px;
+}
+
+.jumbotron {
+  position: absolute;
+  left: 130px;
+  top: 145px;
+  color: white;
+  font-size: 50px;
+  background-color: transparent !important;
+  width: 80%;
+  margin: 0;
+    padding: 0;
+    font-size: 32px;
+    line-height: 1.5;
+    .header-img {
+        img {
+          width: 400px;
+          position: absolute;
+          right: 30px;
+          top: 100px;
+        }
+    }
+    p {
+      width: 70%;
+    }
+}
+
+section {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    background-color: $section-odd;
+    .curve-box {
+        height: 600px;
+        clip-path: polygon(31% 20%, 100% 0, 100% 100%, 0% 100%);
+        background-color: $section; 
+    }
+    .about-content {
+        height: 700px;
+    }
+    img {
+        position: absolute;
+        width: 400px;
+        z-index: 5;
+        left: 29px;
+        top: 50px;
+    }
+}

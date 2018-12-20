@@ -1,0 +1,108 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\000036}}
+* {
+  box-sizing: border-box; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\0000311}}
+html body {
+  margin: 0px;
+  padding: 0px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\0000317}}
+.col-md-12 {
+  padding: 0px !important;
+  margin: 0px !important; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\0000322}}
+.header-section {
+  display: block;
+  position: relative;
+  width: 99% !important; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\0000328}}
+#background-video {
+  margin: 0px !important;
+  padding: 0px !important;
+  background: black !important;
+  object-fit: fill;
+  z-index: -1; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\0000336}}
+.nav-menu {
+  background-color: rgba(55, 0, 255, 0.103);
+  height: 65px;
+  position: absolute !important;
+  left: 15px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\0000341}}
+  .nav-menu .nav-logo {
+    margin-right: 50px;
+    margin-top: 12px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\0000344}}
+    .nav-menu .nav-logo h2 {
+      color: #286fff;
+      margin-right: 20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\0000347}}
+      .nav-menu .nav-logo h2 span {
+        color: #f8f9fa; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\0000354}}
+  .nav-menu ul li a {
+    color: white; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\0000357}}
+  .nav-menu ul li a:hover {
+    background-color: #286fff; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\0000364}}
+.nav {
+  margin-top: 12px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\0000368}}
+.nav-search {
+  position: absolute;
+  top: 11px;
+  right: 10px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\0000374}}
+.jumbotron {
+  position: absolute;
+  left: 130px;
+  top: 145px;
+  color: white;
+  font-size: 50px;
+  background-color: transparent !important;
+  width: 80%;
+  margin: 0;
+  padding: 0;
+  font-size: 32px;
+  line-height: 1.5; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\0000387}}
+  .jumbotron .header-img img {
+    width: 400px;
+    position: absolute;
+    right: 30px;
+    top: 100px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\0000394}}
+  .jumbotron p {
+    width: 70%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\0000399}}
+section {
+  position: relative;
+  margin: 0px;
+  padding: 0px;
+  background-color: #fff8dc; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\00003104}}
+  section .curve-box {
+    height: 600px;
+    clip-path: polygon(31% 20%, 100% 0, 100% 100%, 0% 100%);
+    background-color: #247BA0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\00003109}}
+  section .about-content {
+    height: 700px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Ace\&Bojana\/Desktop\/bootstrap\%20task2\/style\.scss}line{font-family:\00003112}}
+  section img {
+    position: absolute;
+    width: 400px;
+    z-index: 5;
+    left: 29px;
+    top: 50px; }
+
+/*# sourceMappingURL=style.css.map */
